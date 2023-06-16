@@ -1,6 +1,7 @@
 # TV Show Suggester 
 <p align="center">
-![image](https://github.com/NSPOLE01/TVShowSuggester/assets/89700736/f6cdaab4-f3e8-4db0-8419-4443e75ba916)
+  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Fapple%2Fios-10.0%2Ftelevision%2F&psig=AOvVaw1VgA-iKXs7F6gsQOq8I995&ust=1687030230075000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjsy77DyP8CFQAAAAAdAAAAABAJ)" alt="Material Bread logo">
+
 </p>
 
 <p align="center">
