@@ -19,6 +19,7 @@ A fully react web application that allows the user to search for TV shows based 
 
 The specific TV show suggestions are displayed via a dynamic carousel at the bottom of the page, allowing the user to scroll horizontally to view different options. Each option is clickable, upon clicking the four components above are displayed.
 
-The working application is currently deployed using vercel.com and can be viewed/used by clicking the hyperlink to the right ->
+The working application is currently deployed using vercel.com and can be viewed/used by clicking the following hyperlink:
+tv-show-suggester-fcou.vercel.app/
 
 
