@@ -1,4 +1,6 @@
-# TV Show Suggester 
+<h1 align ="center"> 
+    TV Show Suggester 
+</h1>
 
 <p align="center">
     <img width="200" src="https://em-content.zobj.net/thumbs/160/apple/76/television_1f4fa.png" alt="TV Emoji">
