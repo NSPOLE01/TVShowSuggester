@@ -3,8 +3,6 @@ import { tvShowAPI } from "./api/tv-show";
 import { useEffect, useState } from "react";
 import { BACKDROP_URL } from "./config";
 import { TVShowDetail } from "./TVShowDetail/TVShowDetail";
-import { Logo } from "./Logo/Logo";
-import logoImage from "./assets/images/logo.png";
 import { TVShowList } from "./TVShowList/TVShowList";
 import { SearchBar } from "./SearchBar/SearchBar";
 
@@ -75,14 +73,7 @@ export function App() {
     >
       <div className={s.header}>
         <div className="row">
-          <div className="col-4">
-            <Logo
-              image={logoImage}
-              title="Watowatch"
-              subtitle="Find a show you may like"
-            />
-          </div>
-          <div className="col-md-12 col-lg-4">
+          <div className="col-md-12 col-lg-12">
             <SearchBar onSubmit={fetchByTitle} />
           </div>
         </div>
